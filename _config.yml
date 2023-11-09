@@ -1,1 +1,4 @@
-theme: minima
+title: manoa melody
+description: An app for musicians and musicians-alike.
+show_downloads: true
+remote_theme: pages-themes/architect
