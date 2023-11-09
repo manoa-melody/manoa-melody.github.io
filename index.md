@@ -67,8 +67,7 @@ A person may edit their profile by clicking on the Edit button on the My Profile
 
 ### Admin Home Page
 If a user is assigned an “Admin” role, after logging in, their home page will include an updated NavBar similar to the user’s, but has a dropdown menu under Admin with access to two pages: Events and Profiles:
-<img src=”doc/admin-home-page.png”>
-<img src="doc/edit-profile-page.png">
+<img src="doc/admin-home-page.png">
 
 ### Admin Events Page
 The admin can click on the Admin Events page link in the dropdown menu of Admin on the NavBar, and will be redirected to the Admin Events page. This page showcases all the events posted by users, and allows the admin to remove any events that are inappropriate for users:
