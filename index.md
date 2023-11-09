@@ -3,6 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Links](#links)
 * [Mockup Pages](#mockup-pages)
 
 ## Overview
@@ -14,6 +15,11 @@ There are many ways for students to connect and start a friendship with others. 
 * Create a functional application that allows UH Manoa musicians to network with other fellow musicians
 * Allows UH Manoa students to connect with other students based on their musical interests
 * Promotes musical events held by the UH Manoa community
+
+## Links
+* [GitHub Organization](https://github.com/manoa-melody)
+* [Team Contact](https://docs.google.com/document/d/1GudA4xZf2mPfy_P2KJ5WNL01QBL8tX7OjxNeBdaGfr0/edit?usp=sharing)
+* [M1 Project Page](https://github.com/orgs/manoa-melody/projects/1)
 
 ## Mockup Pages
 
