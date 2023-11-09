@@ -16,7 +16,7 @@ There are many ways for students to connect and start a friendship with others. 
 
 ## Links
 * [GitHub Organization](https://github.com/manoa-melody)
-* [Team Contact](https://docs.google.com/document/d/1GudA4xZf2mPfy_P2KJ5WNL01QBL8tX7OjxNeBdaGfr0/edit?usp=sharing)
+* [Team Contract](https://docs.google.com/document/d/1GudA4xZf2mPfy_P2KJ5WNL01QBL8tX7OjxNeBdaGfr0/edit?usp=sharing)
 * [M1 Project Page](https://github.com/orgs/manoa-melody/projects/1)
 
 ## Mockup Pages
