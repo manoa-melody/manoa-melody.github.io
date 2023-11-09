@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Mockup Pages](#mockup pages)
+* [Mockup Pages](#mockup-pages)
 
 ## Overview
 Manoa Melody hopes to resolve an ongoing issue that many UH students with musical talents have been facing – being able to connect with other students who share the same musical tastes, talents, and capabilities. 
@@ -25,9 +25,9 @@ When first opening the application,the landing page will appear with an introduc
 If someone does not have an account with Manoa Melody, they may click on the Sign Up link in the NavBar and be redirected to the Sign Up page, where they may register:
 <img src="doc/sign-up-page.png">
 
-### Edit Profile Page
+### Set Up Profile Page
 After registering for an account, the user will be prompted to the Edit Profile page, where they must create a profile, consisting of their picture, name, and a description.
-<img src="doc/edit-profile-page.png">
+<img src="doc/set-up-profile-page.png">
 
 ### Sign In Page
 If someone is already registered for Manoa Melody, they may click on the Sign In link and be redirected the Sign In page:
