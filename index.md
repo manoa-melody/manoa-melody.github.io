@@ -11,8 +11,8 @@ There are many ways for students to connect and start a friendship with others. 
 
 ### Goals of What the System Will Provide
 * Create a functional application that allows UH Manoa musicians to network with other fellow musicians
-* Allows UH Manoa students to connect with other students based on their musical interests
-* Promotes musical events held by the UH Manoa community
+* Allow UH Manoa students to connect with other students based on their musical interests
+* Promote musical events held by the UH Manoa community
 
 ## Links
 * [GitHub Organization](https://github.com/manoa-melody)
