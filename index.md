@@ -1,5 +1,3 @@
-# Manoa Melody
-
 ## Table of contents
 
 * [Overview](#overview)
