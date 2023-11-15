@@ -5,19 +5,22 @@
 * [Mockup Pages](#mockup-pages)
 
 ## Overview
-Manoa Melody hopes to resolve an ongoing issue that many UH students with musical talents have been facing – being able to connect with other students who share the same musical tastes, talents, and capabilities. 
+Mānoa Melody hopes to resolve an ongoing issue that many UH students with musical talents have been facing – being able to connect with other students who share the same musical tastes, talents, and capabilities. 
 
 There are many ways for students to connect and start a friendship with others. Having similar musical interests is one of them. This application will also cater to these students that want to find friends of similar music tastes. Not only that, it can also help small artists be discovered and gain a platform. 
 
 ### Goals of What the System Will Provide
-* Create a functional application that allows UH Manoa musicians to network with other fellow musicians
-* Allow UH Manoa students to connect with other students based on their musical interests
-* Promote musical events held by the UH Manoa community
+* Create a functional application that allows UH Mānoa musicians to network with other fellow musicians
+* Allow UH Mānoa students to connect with other students based on their musical interests
+* Promote musical events held by the UH Mānoa community
 
 ## Links
 * [GitHub Organization](https://github.com/manoa-melody)
+* [Digital Ocean](http://157.230.213.125)
 * [Team Contract](https://docs.google.com/document/d/1GudA4xZf2mPfy_P2KJ5WNL01QBL8tX7OjxNeBdaGfr0/edit?usp=sharing)
 * [M1 Project Page](https://github.com/orgs/manoa-melody/projects/1)
+* [M2 Project Page](https://github.com/orgs/manoa-melody/projects/2)
+
 
 ## Mockup Pages
 
@@ -26,7 +29,7 @@ When first opening the application, the user is greeted by the landing page whic
 <img src="doc/landing-page.png">
 
 ### Sign Up Page
-If the user does not have an account with Manoa Melody, they can create one by clicking on the Sign Up link in the NavBar. They will be redirected to the Sign Up page, where they may register using an email and password:
+If the user does not have an account with Mānoa Melody, they can create one by clicking on the Sign Up link in the NavBar. They will be redirected to the Sign Up page, where they may register using an email and password:
 <img src="doc/sign-up-page.png">
 
 ### Set Up Profile Page
