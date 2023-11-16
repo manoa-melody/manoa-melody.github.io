@@ -3,7 +3,6 @@
 * [Overview](#overview)
 * [Links](#links)
 * [Deployment](#deployment)
-* [Mockup Pages](#mockup-pages)
 * [Team Members](#team-members)
 
 ## Overview
