@@ -18,7 +18,7 @@ There are many ways for students to connect and start a friendship with others. 
 
 ## Links
 * [GitHub Organization](https://github.com/manoa-melody)
-* [Digital Ocean Deployment Link](http://157.230.213.125)
+* [Digital Ocean Deployment Link](https://manoa-melody.site)
 * [Team Contract](https://docs.google.com/document/d/1GudA4xZf2mPfy_P2KJ5WNL01QBL8tX7OjxNeBdaGfr0/edit?usp=sharing)
 * [M1 Project Board](https://github.com/orgs/manoa-melody/projects/1)
 * [M2 Project Board](https://github.com/orgs/manoa-melody/projects/2)
