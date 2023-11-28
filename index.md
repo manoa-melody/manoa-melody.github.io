@@ -28,7 +28,7 @@ There are many ways for students to connect and start a friendship with others. 
 ![ci-badge](https://github.com/manoa-melody/manoa-melody/workflows/ci-manoa-melody/badge.svg)
 
 ## Deployment
-The application is deployed on [Digital Ocean](http://157.230.213.125). Below are the up-to-date version of the application and the mockup pages that are still in-progress:
+The application is deployed on [Digital Ocean](https://manoa-melody.site). Below are the up-to-date version of the application and the mockup pages that are still in-progress:
 
 #### Landing Page
 When first opening the application, the user is greeted by the landing page which gives an overview of Manoa Melody and the goals of the application:
