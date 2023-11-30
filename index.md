@@ -3,6 +3,7 @@
 * [Overview](#overview)
 * [Links](#links)
 * [Badge](#badge)
+* [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Team Members](#team-members)
 
@@ -26,6 +27,68 @@ There are many ways for students to connect and start a friendship with others. 
 
 # Badge
 ![ci-badge](https://github.com/manoa-melody/manoa-melody/workflows/ci-manoa-melody/badge.svg)
+
+## Developer Guide
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, go to [https://github.com/manoa-melody/manoa-melody](https://github.com/manoa-melody/manoa-melody), and download a copy of Mānoa Melody.
+
+Then, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+
+Once the libraries are installed, you can run the application by invoking:
+
+```
+$ meteor npm run start
+```
+
+The first time you run the app, it will create some default users and data. Here is the output:
+
+```
+meteor npm run start
+
+> meteor-application-template-react@ start /Users/kristineorpilla/Desktop/GitHub/manoa-melody/app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+
+[[[[[ ~/Desktop/GitHub/manoa-melody/app ]]]]] 
+
+=> Started proxy.                             
+=> Started HMR server.                        
+=> Started MongoDB.                           
+I20231129-17:44:37.778(-10)? Creating the default user(s)
+I20231129-17:44:37.784(-10)?   Creating user admin@foo.com.
+I20231129-17:44:38.170(-10)?   Creating user john@foo.com.
+I20231129-17:44:38.258(-10)?   Creating user kristineorpilla@gmail.com.
+I20231129-17:44:38.348(-10)?   Creating user shedrickulibas@gmail.com.
+I20231129-17:44:38.404(-10)?   Creating user destinyshishido@gmail.com.
+I20231129-17:44:38.468(-10)? Creating default profiles.
+I20231129-17:44:38.468(-10)?   Adding: undefined undefined (kristineorpilla@gmail.com)
+I20231129-17:44:38.492(-10)?   Adding: undefined undefined (shedrickulibas@gmail.com)
+I20231129-17:44:38.492(-10)?   Adding: undefined undefined (destinyshishido@gmail.com)
+I20231129-17:44:38.493(-10)? Creating default events.
+I20231129-17:44:38.494(-10)?   Adding: Today's Pop Hits 2023-12-01T17:00:00.000Z
+I20231129-17:44:38.514(-10)?   Adding: K-Pop Jams 2023-12-08T15:00:00.000Z
+I20231129-17:44:38.515(-10)?   Adding: Country at Mānoa 2023-12-07T13:00:00.000Z
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+I20231129-17:44:39.150(-10)? Monti APM: Connected
+```
+
+If all goes well, the Mānoa Melody application will appear at [http://localhost:3000](http://localhost:3000).  You can login using the credentials in [settings.development.json](https://github.com/manoa-melody/manoa-melody/blob/main/config/settings.development.json), or else register a new account.
+
+### ESLint
+
+You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
+
+```
+$ meteor npm run lint
+```
+
 
 ## Deployment
 The application is deployed on [Digital Ocean](https://manoa-melody.site). Below are the up-to-date version of the application and the mockup pages that are still in-progress:
