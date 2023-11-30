@@ -4,7 +4,7 @@
 * [Links](#links)
 * [Badge](#badge)
 * [Developer Guide](#developer-guide)
-* [Deployment](#deployment)
+* [User Guide](#user-guide)
 * [Team Members](#team-members)
 
 ## Overview
@@ -90,7 +90,7 @@ $ meteor npm run lint
 ```
 
 
-## Deployment
+## User Guide
 The application is deployed on [Digital Ocean](https://manoa-melody.site). Below are the up-to-date version of the application and the mockup pages that are still in-progress:
 
 #### Landing Page
