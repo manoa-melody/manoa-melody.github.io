@@ -143,11 +143,11 @@ If a user is assigned an “Admin” role, after logging in, their home page wil
 
 ### Admin Events Page
 The admin can click on the Admin Events page link in the dropdown menu of Admin on the NavBar, and will be redirected to the Admin Events page. This page showcases all the events posted by users, and allows the admin to remove any events that are inappropriate for users:
-<img src="doc/mockup/admin-events-page.png">
+<img src="doc/m3/admin-events-page.png">
 
 ### Admin Profiles Page
 The admin can click on the Admin Profiles page link in the dropdown menu of Admin on the NavBar, and will be redirected to the Admin Profiles page. This page showcases all the profiles of the users, and allows the admin to remove any profile that is inappropriate for users:
-<img src="doc/mockup/admin-profiles-page.png">
+<img src="doc/m3/admin-profiles-page.png">
 
 ## Team Members
 This application was created by Shedrick Klifford Ulibas, Harvey Dayne Lafradez, Kristine Orpilla, Destiny Shishido, Sierra Morales
