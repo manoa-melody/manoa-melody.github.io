@@ -26,7 +26,7 @@ There are many ways for students to connect and start a friendship with others. 
 * [M3 Project Board](https://github.com/orgs/manoa-melody/projects/3/views/1)
 
 # Badge
-![ci-badge](https://github.com/manoa-melody/manoa-melody/workflows/ci-manoa-melody/badge.svg)
+[![ci-manoa-melody](https://github.com/manoa-melody/manoa-melody/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-melody/manoa-melody/actions/workflows/ci.yml)
 
 ## Developer Guide
 
