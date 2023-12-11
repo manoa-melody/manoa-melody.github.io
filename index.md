@@ -58,34 +58,38 @@ Users who would like to advertise their events (jam sessions, live concerts, etc
 
 ### Events Page
 Users can explore events that are being hosted by the University and students by clicking on the Events page link on the NavBar.  In the Events page, they will be shown all events and their descriptions:
-<img src="doc/m2/events-page.png">
+<img src="doc/m3/events-page.png">
 
 ### Profiles Page
 Users can explore other users on the application by clicking on the Profiles page link on the NavBar. The Profiles page will show users and their profiles. This page allows people to find student musicians and also students who share the same musical interests as them. Their profile includes their different social media profiles, where they can use to meet and network with others:
-<img src="doc/m2/profiles-page.png">
+<img src="doc/m3/profiles-page.png">
 
 ### My Events Page
-To access the My Events page, the user may click on the My Events page link. This page showcases all events that were created by the user:
-<img src="doc/m2/my-events-page.png">
+To access the My Events page, the user may click on the My Events page link. This page showcases all events that were created by the user. Here, they have the option to edit the event or to delete the event:
+<img src="doc/m3/my-events-page.png">
+
+### Edit Event Page
+A person may edit an event they created by clicking on the Edit Event button on the My Events page. They will be taken to a form that displays the stored event information. Here, they may edit the event information and submit the made changes:
+<img src="doc/m3/edit-event-page.png">
 
 ### My Profile Page
 When clicking on the My Profile page link, they will be redirected to their My Profile page, where they can look over their profile and be given the option to edit it:
-<img src="doc/m2/my-profile-page.png">
+<img src="doc/m3/my-profile-page.png">
 
 ### Edit Profile Page
-A person may edit their profile by clicking on the Edit button on the My Profile page, where they will be prompted to a form that displays their stored profile information. On this page, they may edit their profile and submit changes:
-<img src="doc/mockup/edit-profile-page.png">
+A person may edit their profile by clicking on the Edit Profile button on the My Profile page, where they will be prompted to a form that displays their stored profile information. On this page, they may edit their profile and submit changes:
+<img src="doc/m3/edit-profile-page.png">
 
 ### Admin Home Page
-If a user is assigned an “Admin” role, after logging in, their home page will include an updated NavBar similar to the user’s, but has a dropdown menu under Admin with access to two pages: Events and Profiles:
-<img src="doc/m2/admin-home-page.png">
+If a user is assigned an “Admin” role, after logging in, their home page will include an updated NavBar with the Events and Profiles pages:
+<img src="doc/m3/admin-home-page.png">
 
 ### Admin Events Page
-The admin can click on the Admin Events page link in the dropdown menu of Admin on the NavBar, and will be redirected to the Admin Events page. This page showcases all the events posted by users, and allows the admin to remove any events that are inappropriate for users:
+The admin can click on the Admin Events page link in the NavBar, and will be redirected to the Admin Events page. This page showcases all the events posted by users, and allows the admin to remove any events that are inappropriate for users:
 <img src="doc/m3/admin-events-page.png">
 
 ### Admin Profiles Page
-The admin can click on the Admin Profiles page link in the dropdown menu of Admin on the NavBar, and will be redirected to the Admin Profiles page. This page showcases all the profiles of the users, and allows the admin to remove any profile that is inappropriate for users:
+The admin can click on the Admin Profiles page link in the NavBar, and will be redirected to the Admin Profiles page. This page showcases all the profiles of the users, and allows the admin to remove any profile that is inappropriate for users:
 <img src="doc/m3/admin-profiles-page.png">
 
 ## Community Feedback
