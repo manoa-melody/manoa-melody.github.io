@@ -61,7 +61,7 @@ Users can explore events that are being hosted by the University and students by
 <img src="doc/m3/events-page.png">
 
 ### Profiles Page
-Users can explore other users on the application by clicking on the Profiles page link on the NavBar. The Profiles page will show users and their profiles. This page allows people to find student musicians and also students who share the same musical interests as them. Their profile includes their different social media profiles, where they can use to meet and network with others:
+Users can explore other users on the application by clicking on the Profiles page link on the NavBar. The Profiles page will show users and their profiles. This page allows people to find student musicians and also students who share the same musical interests as them. Their profile includes their email, where they can use to meet and network with others:
 <img src="doc/m3/profiles-page.png">
 
 ### My Events Page
